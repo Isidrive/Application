@@ -1,0 +1,47 @@
+C:\Users\Administrateur\Desktop\PPE\PPE PHASE 2\PPE3_Udrive\PPE3_Udrive\bin\Debug\PPE3_Udrive.exe
+C:\Users\Administrateur\Desktop\PPE\PPE PHASE 2\PPE3_Udrive\PPE3_Udrive\bin\Debug\PPE3_Udrive.pdb
+C:\Users\Administrateur\Desktop\PPE\PPE PHASE 2\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\PPE\PPE PHASE 2\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.identification.resources
+C:\Users\Administrateur\Desktop\PPE\PPE PHASE 2\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\PPE\PPE PHASE 2\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrateur\Desktop\PPE\PPE PHASE 2\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrateur\Desktop\PPE\PPE PHASE 2\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.exe
+C:\Users\Administrateur\Desktop\PPE\PPE PHASE 2\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.pdb
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.exe
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.pdb
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\bin\Debug\PPE3_Udrive.exe
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\bin\Debug\PPE3_Udrive.pdb
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.frmIdentification.resources
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.frmMenu.resources
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.frmAjoutProduit.resources
+C:\Users\Administrateur\Desktop\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.frmCommande.resources
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.exe
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.frmAjoutProduit.resources
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.frmCommande.resources
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.identification.resources
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.frmMenu.resources
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.FrmModifMagasin.resources
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\bin\Debug\PPE3_Udrive.exe
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\bin\Debug\PPE3_Udrive.pdb
+C:\Users\Administrateur\Desktop\nouveau ppe regroupé\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.pdb
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.exe
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.pdb
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\bin\Debug\PPE3_Udrive.exe
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\bin\Debug\PPE3_Udrive.pdb
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.frmAjoutProduit.resources
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.frmCommande.resources
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.identification.resources
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.frmMenu.resources
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.FrmModifMagasin.resources
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\PPE3_Udrive.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrateur\Desktop\PPE3 PHASE 2 A RENDRE\PPE3 PHASE2 APPLICATION\PPE3_Udrive\PPE3_Udrive\obj\x86\Debug\GenerateResource.write.1.tlog
